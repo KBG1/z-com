@@ -1,7 +1,7 @@
 export default function Home() {
   return (
    <div>
-    음
+    프로필 페이지
    </div>
   );
 }
