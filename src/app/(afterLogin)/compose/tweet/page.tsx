@@ -1,5 +1,7 @@
-export default function Home() {
+import Home from "../../home/page";
+
+export default function Page() {
   return (
-    <div>음음음음</div>
+    <Home/>
   );
 }
